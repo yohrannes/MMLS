@@ -1,5 +1,3 @@
 #!/bin/bash
-sodsodijvsdv
-sdovsijdv
-vksoivjs
+echo Olá mundo
 
